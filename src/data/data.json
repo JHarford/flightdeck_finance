@@ -1,0 +1,478 @@
+[
+  {
+    "first_name": "Anders",
+    "last_name": "Jensen",
+    "job_title": "Deputy Senior Technical Artist",
+    "department": "ART - Technical",
+    "base_salary": 36000
+  },
+  {
+    "first_name": "Andrea",
+    "last_name": "Giordano",
+    "job_title": "Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Andrej",
+    "last_name": "Zarol",
+    "job_title": "Deputy Senior Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 36000
+  },
+  {
+    "first_name": "Andrew",
+    "last_name": "Entwistle",
+    "job_title": "Senior Character Artist",
+    "department": "ART - Character",
+    "base_salary": 50000
+  },
+  {
+    "first_name": "Andy",
+    "last_name": "Phelan",
+    "job_title": "Head of Art",
+    "department": "ART",
+    "base_salary": 75000
+  },
+  {
+    "first_name": "Anthea",
+    "last_name": "Kennedy",
+    "job_title": "Associate Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 25000
+  },
+  {
+    "first_name": "Ashita",
+    "last_name": "Narang",
+    "job_title": "Producer",
+    "department": "Production",
+    "base_salary": 52000
+  },
+  {
+    "first_name": "Billy",
+    "last_name": "Allen",
+    "job_title": "Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Braden",
+    "last_name": "Webster",
+    "job_title": "Character Artist",
+    "department": "ART - Character",
+    "base_salary": 30000
+  },
+  {
+    "first_name": "Bradley",
+    "last_name": "Horne",
+    "job_title": "Lead Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 52000
+  },
+  {
+    "first_name": "Brandon",
+    "last_name": "Williams",
+    "job_title": "Technical Artist",
+    "department": "ART - Technical",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Byron",
+    "last_name": "Avendano",
+    "job_title": "Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Cedrick",
+    "last_name": "Valdeviezo",
+    "job_title": "Associate Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 25000
+  },
+  {
+    "first_name": "Chelsea",
+    "last_name": "Cowan",
+    "job_title": "Associate Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 24000
+  },
+  {
+    "first_name": "Cheyenne",
+    "last_name": "Burdue",
+    "job_title": "Associate Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 24000
+  },
+  {
+    "first_name": "Chris",
+    "last_name": "Hircock",
+    "job_title": "Deputy Senior Character Artist",
+    "department": "ART - Groom",
+    "base_salary": 36000
+  },
+  {
+    "first_name": "Connor",
+    "last_name": "Brydon",
+    "job_title": "Associate Character Artist",
+    "department": "ART - Character",
+    "base_salary": 24000
+  },
+  {
+    "first_name": "Daniel",
+    "last_name": "Brooke",
+    "job_title": "Production Lead",
+    "department": "Production",
+    "base_salary": 58000
+  },
+  {
+    "first_name": "Daniel",
+    "last_name": "Browne",
+    "job_title": "Prodction Manager",
+    "department": "Production",
+    "base_salary": 58000
+  },
+  {
+    "first_name": "Daniel",
+    "last_name": "Cabello",
+    "job_title": "Deputy Senior Character Artist",
+    "department": "ART - Character",
+    "base_salary": 36000
+  },
+  {
+    "first_name": "Dominyka",
+    "last_name": "Baliunaite",
+    "job_title": "Associate Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 24000
+  },
+  {
+    "first_name": "Elizaveta",
+    "last_name": "Titova",
+    "job_title": "Lead Character Artist",
+    "department": "ART - Character",
+    "base_salary": 60000
+  },
+  {
+    "first_name": "Ellie",
+    "last_name": "Booth",
+    "job_title": "Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Elodie",
+    "last_name": "Perquis",
+    "job_title": "Character Artist",
+    "department": "ART - Character",
+    "base_salary": 32000
+  },
+  {
+    "first_name": "Eric",
+    "last_name": "Maweja",
+    "job_title": "Senior Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 48000
+  },
+  {
+    "first_name": "Ethan",
+    "last_name": "Place",
+    "job_title": "Technical Artist",
+    "department": "ART - Technical",
+    "base_salary": 32000
+  },
+  {
+    "first_name": "Evan",
+    "last_name": "Clark",
+    "job_title": "Generalist Artist",
+    "department": "ART - Groom",
+    "base_salary": 36000
+  },
+  {
+    "first_name": "Ewan",
+    "last_name": "Tennent",
+    "job_title": "Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "George",
+    "last_name": "Prince",
+    "job_title": "Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Grace",
+    "last_name": "Collett",
+    "job_title": "Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Holly",
+    "last_name": "Moore",
+    "job_title": "Associate Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 24000
+  },
+  {
+    "first_name": "James",
+    "last_name": "Dye",
+    "job_title": "Associate Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 26000
+  },
+  {
+    "first_name": "Joe",
+    "last_name": "Gregory",
+    "job_title": "Associate Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 24000
+  },
+  {
+    "first_name": "Joel",
+    "last_name": "Sherrington",
+    "job_title": "Production coordinator",
+    "department": "Production",
+    "base_salary": 30000
+  },
+  {
+    "first_name": "Jordan",
+    "last_name": "Porrino",
+    "job_title": "Deputy Senior Producer",
+    "department": "Production",
+    "base_salary": 45000
+  },
+  {
+    "first_name": "Joseph",
+    "last_name": "Luck",
+    "job_title": "Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Laura",
+    "last_name": "Dilloway",
+    "job_title": "Lead Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 60000
+  },
+  {
+    "first_name": "Leah",
+    "last_name": "McEwen",
+    "job_title": "Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Lili",
+    "last_name": "Liu",
+    "job_title": "Character Artist",
+    "department": "ART - Character",
+    "base_salary": 31000
+  },
+  {
+    "first_name": "Luke",
+    "last_name": "Marchese",
+    "job_title": "Deputy Senior Character Artist",
+    "department": "ART - Groom",
+    "base_salary": 36500
+  },
+  {
+    "first_name": "Matt",
+    "last_name": "Tonks",
+    "job_title": "Senior Character Artist",
+    "department": "ART - Character",
+    "base_salary": 42000
+  },
+  {
+    "first_name": "Matthew",
+    "last_name": "Aitchison",
+    "job_title": "Technical Art Supervisor",
+    "department": "ART - Technical",
+    "base_salary": 42000
+  },
+  {
+    "first_name": "Mercedes",
+    "last_name": "Vorwahlner",
+    "job_title": "Character Artist",
+    "department": "ART - Character",
+    "base_salary": 36000
+  },
+  {
+    "first_name": "Mihai",
+    "last_name": "Sandu",
+    "job_title": "Character Artist",
+    "department": "ART - Character",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Mitch",
+    "last_name": "Russell",
+    "job_title": "Associate Character Artist",
+    "department": "ART - Character",
+    "base_salary": 25000
+  },
+  {
+    "first_name": "Nicholas",
+    "last_name": "Rollason",
+    "job_title": "Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Patrick",
+    "last_name": "Hargreaves",
+    "job_title": "Deputy Senior Producer",
+    "department": "Production",
+    "base_salary": 40000
+  },
+  {
+    "first_name": "Pavan",
+    "last_name": "Mankoo",
+    "job_title": "Character Artist",
+    "department": "ART - Character",
+    "base_salary": 32000
+  },
+  {
+    "first_name": "Peter",
+    "last_name": "Minister",
+    "job_title": "Lead Character Artist",
+    "department": "ART - Character",
+    "base_salary": 60000
+  },
+  {
+    "first_name": "Quaid",
+    "last_name": "Nash",
+    "job_title": "Associate Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 24000
+  },
+  {
+    "first_name": "Renaud",
+    "last_name": "Hance",
+    "job_title": "Character Artist",
+    "department": "ART - Character",
+    "base_salary": 30000
+  },
+  {
+    "first_name": "Ryan",
+    "last_name": "Thomson",
+    "job_title": "Senior Programmer",
+    "department": "ART - Technical",
+    "base_salary": 40000
+  },
+  {
+    "first_name": "Salman",
+    "last_name": "Ijaz",
+    "job_title": "Senior Generalist Artist",
+    "department": "ART - Character",
+    "base_salary": 42000
+  },
+  {
+    "first_name": "Stefan",
+    "last_name": "Kamoda",
+    "job_title": "Senior Technical Artist",
+    "department": "ART - Technical",
+    "base_salary": 70000
+  },
+  {
+    "first_name": "Tom",
+    "last_name": "Dalton",
+    "job_title": "Associate Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 24000
+  },
+  {
+    "first_name": "Tomos",
+    "last_name": "Evans",
+    "job_title": "Principal Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 52000
+  },
+  {
+    "first_name": "Tristan",
+    "last_name": "McGuire",
+    "job_title": "Character Artist",
+    "department": "ART - Character",
+    "base_salary": 30000
+  },
+  {
+    "first_name": "Tshibangu",
+    "last_name": "Maweja",
+    "job_title": "Groom Artist",
+    "department": "ART - Groom",
+    "base_salary": 32000
+  },
+  {
+    "first_name": "Tyler",
+    "last_name": "Hartshorne",
+    "job_title": "Associate Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 24000
+  },
+  {
+    "first_name": "Tyler",
+    "last_name": "Oliver",
+    "job_title": "Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "Vladyslav",
+    "last_name": "Bochko",
+    "job_title": "Character Artist",
+    "department": "ART - Character",
+    "base_salary": 30000
+  },
+  {
+    "first_name": "Will",
+    "last_name": "Brown",
+    "job_title": "Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 32000
+  },
+  {
+    "first_name": "Ben",
+    "last_name": "Watton",
+    "job_title": "Associate Environment Artist",
+    "department": "ART - Environment",
+    "base_salary": 28000
+  },
+  {
+    "first_name": "April",
+    "last_name": "Brown",
+    "job_title": "Deputy Senior Character Artist",
+    "department": "ART - Character",
+    "base_salary": 38000
+  },
+  {
+    "first_name": "Bradley",
+    "last_name": "Mayo",
+    "job_title": "Technical Artist",
+    "department": "ART - Technical",
+    "base_salary": 36000
+  },
+  {
+    "first_name": "Lola",
+    "last_name": "Lipsom",
+    "job_title": "Deputy Senior Character Artist",
+    "department": "ART - Character",
+    "base_salary": 43000
+  },
+  {
+    "first_name": "Steven",
+    "last_name": "Hobbs",
+    "job_title": "Producer",
+    "department": "Production",
+    "base_salary": 38500
+  },
+  {
+    "first_name": "Jonathan",
+    "last_name": "Lloyd",
+    "job_title": "Deputy Senior Producer",
+    "department": "Production",
+    "base_salary": 45000
+  }
+]
