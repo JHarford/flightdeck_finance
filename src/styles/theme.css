@@ -1,3 +1,33 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oswald:wght@300;400;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --primary-color: #1f1f1f;
+  --secondary-color: #3c1a74;
+  --accent-color: #9dbf9e;
+  --font-size-s: 12px;
+  --font-size-m: 16px;
+  --font-size-l: 20px;
+  --font-size-xl: 24px;
+  --highlighted-text-color: #f39c12;
+  --knockedback-text-color: #7f8c8d;
+}
+
+/* Applying variables to the body */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: var(--font-size-medium);
+  font-weight: 400;
+}
+
+/* General class styles */
 .App {
   margin: 0;
   padding: 0;
@@ -5,4 +35,121 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: var(--font-size-xl);
+  color: var(--primary-color);
+}
+
+h2 {
+  font-size: var(--font-size-l);
+  color: var(--secondary-color);
+}
+
+h3 {
+  font-size: var(--font-size-m);
+  color: var(--accent-color);
+}
+
+/* Highlighted text */
+.highlighted {
+  color: var(--highlighted-text-color);
+  font-weight: bold;
+}
+
+/* Knockedback text */
+.knockedback {
+  color: var(--knockedback-text-color);
+  font-style: italic;
+}
+
+/* Tags */
+.tags {
+  display: flex;
+  gap: 5px;
+}
+
+.tag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--accent-color);
+  font-size: var(--font-size-s);
+  font-style: italic;
+  color: white;
+  padding-inline: 10px;
+  padding-block: 2px;
+  border-radius: 5px;
+}
+
+/* Entry */
+.entry {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  min-width: 300px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.entry .header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.entry .header h2 {
+  position: relative;
+  display: inline-block;
+}
+
+.entry .name {
+  width: 200px;
+}
+
+.entry .footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  align-items: flex-start;
+}
+
+.entry_type {
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  background: gray;
+}
+
+
+.entry .date {
+  font-size: var(--font-size-s);
+  color: var(--knockedback-text-color);
+  display: flex;
+  gap: 5px;
+  padding-top: 0px;
+}
+
+.entry .supplier {
+  font-size: var(--font-size-s);
+  color: var(--secondary-color);
+}
+
+.entry .cost[data-type='in'] {
+  color: rgb(56, 172, 56);
+}
+
+.entry .cost[data-type='out'] {
+  color: rgb(222, 39, 39);
 }
