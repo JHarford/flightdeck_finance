@@ -1,9 +1,10 @@
-import Resources from './components/Resources'
+import AddEntry from './components/AddEntry'
+import './styles/theme.css'
 
 function App() {
   return (
     <div className='App'>
-      <Resources />
+      <AddEntry />
     </div>
   )
 }
