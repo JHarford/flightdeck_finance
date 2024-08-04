@@ -132,7 +132,6 @@ h3 {
   background: gray;
 }
 
-
 .entry .date {
   font-size: var(--font-size-s);
   color: var(--knockedback-text-color);
@@ -152,4 +151,32 @@ h3 {
 
 .entry .cost[data-type='out'] {
   color: rgb(222, 39, 39);
+}
+
+/* Graph */
+.graph-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  height: 400px;
+  border: #949494 solid 0.5px;
+  position: relative;
+}
+
+.point {
+  width: 5px;
+  height: 5px;
+  border-radius: 5px;
+  background-color: var(--accent-color);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  transform: translate(-50%, 50%);
+}
+
+.svg {
+  position: absolute;
+  width: 800px;
+  height: 400px;
 }
